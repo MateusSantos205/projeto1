@@ -1,0 +1,65 @@
+
+
+body{
+    box-sizing: border-box;
+    
+    margin: 0 auto;
+    width: 1000px;
+    box-shadow: #0000008f 0px 22px 70px 4px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+h1,h2,h3,p{
+    padding-left: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2,h3{
+    color: white;
+    background-color: #473959; 
+    padding: 10px 0px 10px 10px;
+    font-size: 1.5em;
+}
+
+ol{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li{
+    margin-bottom: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin: o auto;  
+}
+
+.viloes{
+    width:720px;
+    height:413px;
+    margin-bottom: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.logo{
+    width: 1000px;
+    height: 450px;
+    text-align: center;  
+}
+
+.doutor{
+    display: block;
+    margin: 0 auto;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.tardis{
+    width: 1000px;
+    height: 450px;
+}
+
+   
